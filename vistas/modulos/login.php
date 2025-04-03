@@ -42,10 +42,7 @@
 
        $login = new ControladorUsuarios();
        $login -> ctrIngresoUsuario();
-
-
-
-       
+       #hola 
       ?>
 
     </form>
